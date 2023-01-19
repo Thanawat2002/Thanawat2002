@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Hello world!!
+🔭 Hello everyone my name is Thanawat Yodsong 
 
 
 ## 🌐 Socials:
