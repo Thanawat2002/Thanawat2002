@@ -18,9 +18,9 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-### 😂 Random Dev Meme
+<!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
-
+ -->
 ---
 [![](https://visitcount.itsvg.in/api?id=Thanawat2002&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
 <!-- [![](https://visitcount.itsvg.in/api?id=Thanawat2002&icon=6&color=2)](https://visitcount.itsvg.in) -->
