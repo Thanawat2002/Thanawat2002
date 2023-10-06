@@ -7,3 +7,23 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Thanawat2002&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true&hide_border=true" />
 <img src="http://github-readme-streak-stats.herokuapp.com?user=Thanawat2002&theme=tokyonight&hide_border=true" />
 <img src="https://github-readme-activity-graph.cyclic.app/graph?username=Thanawat2002&theme=react-dark&hide_border=true">
+
+## 🧑🏻‍💻 Programming Languages
+
+<a href="https://github.com/notsu">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanawat2002&count_private=true&layout=compact&hide=html,css&theme=tokyonight&langs_count=12&hide_border=true" />
+</a>
+
+<a href="https://wakatime.com/@notsu">
+  <img align="right" width="400" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Thanawat2002&hide_border=true&langs_count=12&theme=tokyonight" />
+</a>
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
