@@ -10,11 +10,11 @@
 
 ## 🧑🏻‍💻 Programming Languages
 
-<a href="https://github.com/notsu">
+<a href="https://github.com/Thanawat2002">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanawat2002&count_private=true&layout=compact&hide=html,css&theme=tokyonight&langs_count=12&hide_border=true" />
 </a>
 
-<a href="https://wakatime.com/@notsu">
+<a href="https://wakatime.com/@Thanawat2002">
   <img align="right" width="400" src="https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=Thanawat2002&hide_border=true&langs_count=12&theme=tokyonight" />
 </a>
 
