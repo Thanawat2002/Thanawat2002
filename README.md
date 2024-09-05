@@ -1,5 +1,5 @@
 <a href="https://app.daily.dev/thanawatyodsong">
-    <img src="https://api.daily.dev/devcards/v2/hHLpjt9cGIhjTT65Yf9pT.png?type=default&r=vht" width="354" align="right" alt="Thanawat Yodsong's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/hHLpjt9cGIhjTT65Yf9pT.png?type=default&r=s56" width="354" align="right" alt="Thanawat Yodsong's Dev Card"/>
 </a>
 
 ## 🏗 Contribution
