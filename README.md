@@ -1,5 +1,5 @@
-<a href="https://app.daily.dev/thanawatyodsong"> 
- <img src="https://api.daily.dev/devcards/5ff63f0a2df9447bb5bb2a634c72dee6.png?r=s56" width="324" align="right" alt="Thanawat Yodsong's Dev Card"/>
+<a href="https://app.daily.dev/thanawatyodsong">
+    <img src="https://api.daily.dev/devcards/v2/hHLpjt9cGIhjTT65Yf9pT.png?type=default&r=vht" width="354" align="right" alt="Thanawat Yodsong's Dev Card"/>
 </a>
 
 ## 🏗 Contribution
@@ -12,10 +12,6 @@
 
 <a href="https://github.com/Thanawat2002">
     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thanawat2002&count_private=true&layout=compact&hide=html,css&theme=tokyonight&langs_count=12&hide_border=true" />
-</a>
-
-<a href="https://app.daily.dev/thanawatyodsong">
-    <img src="https://api.daily.dev/devcards/v2/hHLpjt9cGIhjTT65Yf9pT.png?type=default&r=vht" width="356" alt="Thanawat Yodsong's Dev Card"/>
 </a>
 
 
